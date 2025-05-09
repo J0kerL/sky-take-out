@@ -1,0 +1,15 @@
+2022/09/13 09:52:09 [emerg] 16120#18744: CreateFile() "E:\2022新版课程\苍穹外卖项目\授课资料\day01\资料\前端运行环境\nginx-1.20.2/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/09/19 14:13:10 [emerg] 6884#1840: CreateFile() "E:\2022新版课程\苍穹外卖项目\授课资料\day01\资料\前端运行环境\nginx-1.20.2/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2023/03/04 10:52:01 [emerg] 12092#12960: CreateFile() "E:\授课\北京JavaEE就业406期\苍穹外卖项目\资料\day01\前端运行环境\nginx-1.20.2/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2025/02/10 14:36:00 [error] 27360#9800: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /api/employee/login HTTP/1.1", upstream: "http://[::1]:8080/admin/employee/login", host: "localhost", referrer: "http://localhost/"
+2025/02/10 17:28:25 [notice] 1152#10068: signal process started
+2025/05/06 12:42:48 [emerg] 24252#11108: CreateDirectory() "D:\WorkSpace\Projects\sky-take-out\nginx-1.20.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/05/06 14:09:05 [emerg] 27348#30520: CreateDirectory() "D:\WorkSpace\Projects\sky-take-out\nginx-1.20.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/05/06 14:11:17 [emerg] 32860#36084: CreateDirectory() "D:\WorkSpace\Projects\sky-take-out\nginx-1.20.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/05/06 14:48:31 [emerg] 9352#13708: CreateDirectory() "D:\WorkSpace\Projects\sky-take-out\nginx-1.20.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/05/06 14:50:39 [emerg] 14180#7784: CreateDirectory() "D:\WorkSpace\Projects\sky-take-out\nginx-1.20.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/05/06 14:53:45 [emerg] 12448#8592: CreateDirectory() "D:\WorkSpace\Projects\sky-take-out\nginx-1.20.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2025/05/06 14:59:52 [error] 8616#13612: *32 CreateFile() "D:\WorkSpace\Projects\sky-take-out\nginx-1.20.2/html/sky/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost"
+2025/05/06 15:00:06 [error] 8616#13612: *39 CreateFile() "D:\WorkSpace\Projects\sky-take-out\nginx-1.20.2/html/sky/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost"
+2025/05/06 15:00:46 [notice] 6044#9988: signal process started
+2025/05/09 11:33:16 [notice] 12692#18808: signal process started
