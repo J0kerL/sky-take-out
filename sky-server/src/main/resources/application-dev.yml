@@ -8,8 +8,8 @@ sky:
     password: 1234
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tSJNsUZUGoUpWqseSLD
-    access-key-secret: vmk3NT4jkFCibBlLSqshiec6CAvqhz
+    access-key-id: 
+    access-key-secret: 
     bucket-name: sky-takeaway-study
   redis:
     host: 192.168.227.133
@@ -17,8 +17,8 @@ sky:
     password: 1234
     database: 0
   wechat:
-    appid: wx4ed561facc3ef387
-    secret: b9766b67ce8df969c963489514e5ec1b
+    appid: 
+    secret: 
     mchid : 1561414331
     mchSerialNo: 4B3B3DC35414AD50B1B755BAF8DE9CC7CF407606
     privateKeyFilePath: D:\pay\apiclient_key.pem
